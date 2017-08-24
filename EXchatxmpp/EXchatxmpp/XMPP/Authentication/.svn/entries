@@ -1,0 +1,80 @@
+10
+
+dir
+6734
+svn://bjs140319@172.16.5.1/BJS140319/zhanglinlin/project/trunk/ChatFreedom/ChatFreedom/3rdPart/XMPP/Authentication
+svn://bjs140319@172.16.5.1
+
+
+
+2014-07-16T21:03:52.382816Z
+6690
+bjs140319
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ed1d5fd7-7f61-4476-9ab6-e1981bf51f5f
+
+X-Facebook-Platform
+dir
+
+Deprecated-Plain
+dir
+
+Digest-MD5
+dir
+
+Plain
+dir
+
+Anonymous
+dir
+
+Deprecated-Digest
+dir
+
+XMPPSASLAuthentication.h
+file
+
+
+
+
+2014-07-16T13:13:33.000000Z
+17d8a6341cc3588fa55a4958d7e4449d
+2014-07-16T21:03:52.382816Z
+6690
+bjs140319
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3525
+
